@@ -37,7 +37,7 @@ export default function LandingPage() {
         { name: "Services", id: "#features" },
         { name: "Contact", id: "#contact" },
       ]}
-      brandName="HenaGlobal"
+      brandName="HenaGlobal Luxury Flight"
     />
   </div>
 
@@ -50,7 +50,7 @@ export default function LandingPage() {
         { name: "Alex Rivet", handle: "@alexrivet", testimonial: "Exceptional service, completely seamless travel experience.", rating: 5, imageSrc: "https://img.b2bpic.net/free-photo/close-up-portrait-young-handsome-successful-man_1163-5475.jpg?_wi=1" },
         { name: "Maria Garcia", handle: "@mgarcia", testimonial: "The best private jet experience I've had to date.", rating: 5, imageSrc: "https://img.b2bpic.net/free-photo/closeup-smiling-beautiful-adult-businesswoman_1262-1760.jpg?_wi=1" },
         { name: "John Doe", handle: "@jdoe", testimonial: "Professional, punctual, and truly luxurious.", rating: 5, imageSrc: "https://img.b2bpic.net/free-photo/business-lady-looking-copyspace-with-interest_1262-2957.jpg?_wi=1" },
-        { name: "Sarah Lee", handle: "@slee", testimonial: "HenaGlobal is my go-to choice for all business travel.", rating: 5, imageSrc: "https://img.b2bpic.net/free-photo/pretty-attractive-young-mixed-race-model-with-large-afro-wearing-navy-jacket-her-naked-body-shorts_633478-1216.jpg?_wi=1" },
+        { name: "Sarah Lee", handle: "@slee", testimonial: "HenaGlobal Luxury Flight is my go-to choice for all business travel.", rating: 5, imageSrc: "https://img.b2bpic.net/free-photo/pretty-attractive-young-mixed-race-model-with-large-afro-wearing-navy-jacket-her-naked-body-shorts_633478-1216.jpg?_wi=1" },
         { name: "Mike Ross", handle: "@mross", testimonial: "Unmatched attention to detail and personalized service.", rating: 5, imageSrc: "https://img.b2bpic.net/free-photo/close-up-young-businessman-talking-mobile-phone-with-wireless-earphone-his-ears_23-2148176222.jpg" },
       ]}
       tag="Private Aviation Excellence"
@@ -94,7 +94,7 @@ export default function LandingPage() {
         { id: "2", label: "Comfort", title: "Luxury Interiors", items: ["Ergonomic Seating", "In-flight Wi-Fi", "Gourmet Catering"] },
         { id: "3", label: "Global", title: "World-wide Access", items: ["Global Operations", "24/7 Availability", "Strategic Hubs"] },
       ]}
-      title="Why Choose HenaGlobal"
+      title="Why Choose HenaGlobal Luxury Flight"
       description="Our commitment to excellence sets us apart in the private charter industry."
     />
   </div>
@@ -178,7 +178,7 @@ export default function LandingPage() {
   <div id="footer" data-section="footer">
       <FooterMedia
       imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3DLNLdVpFHmbbI9nuxPgilzABGs/a-clean-abstract-texture-inspired-by-air-1778092511156-cb0f39e1.png"
-      logoText="HenaGlobal"
+      logoText="HenaGlobal Luxury Flight"
       columns={[
         { title: "Company", items: [{ label: "About", href: "#" }, { label: "Fleet", href: "#" }] },
         { title: "Services", items: [{ label: "Private Charter", href: "#" }, { label: "Concierge", href: "#" }] },
