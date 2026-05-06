@@ -66,28 +66,28 @@ export default function LandingPage() {
           handle: "@alexrivet",
           testimonial: "Exceptional service, completely seamless travel experience.",
           rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/close-up-portrait-young-handsome-successful-man_1163-5475.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/close-up-portrait-young-handsome-successful-man_1163-5475.jpg?_wi=1",
         },
         {
           name: "Maria Garcia",
           handle: "@mgarcia",
           testimonial: "The best private jet experience I've had to date.",
           rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/closeup-smiling-beautiful-adult-businesswoman_1262-1760.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/closeup-smiling-beautiful-adult-businesswoman_1262-1760.jpg?_wi=1",
         },
         {
           name: "John Doe",
           handle: "@jdoe",
           testimonial: "Professional, punctual, and truly luxurious.",
           rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/business-lady-looking-copyspace-with-interest_1262-2957.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/business-lady-looking-copyspace-with-interest_1262-2957.jpg?_wi=1",
         },
         {
           name: "Sarah Lee",
           handle: "@slee",
           testimonial: "AeroElite is my go-to choice for all business travel.",
           rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/pretty-attractive-young-mixed-race-model-with-large-afro-wearing-navy-jacket-her-naked-body-shorts_633478-1216.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/pretty-attractive-young-mixed-race-model-with-large-afro-wearing-navy-jacket-her-naked-body-shorts_633478-1216.jpg?_wi=1",
         },
         {
           name: "Mike Ross",
@@ -108,7 +108,7 @@ export default function LandingPage() {
           href: "#fleet",
         },
       ]}
-      imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3DLNLdVpFHmbbI9nuxPgilzABGs/a-stunning-high-resolution-shot-of-a-mod-1778092423820-c88d6150.png"
+      imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3DLNLdVpFHmbbI9nuxPgilzABGs/a-stunning-high-resolution-shot-of-a-mod-1778092423820-c88d6150.png?_wi=1"
       avatars={[
         {
           src: "http://img.b2bpic.net/free-photo/executive-with-good-future_1098-540.jpg",
@@ -314,7 +314,7 @@ export default function LandingPage() {
           quote: "Reliable and high-end.",
           tag: "Corporate",
           avatarSrc: "http://img.b2bpic.net/free-photo/confident-woman-professional-attire_23-2152009547.jpg",
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3DLNLdVpFHmbbI9nuxPgilzABGs/a-stunning-high-resolution-shot-of-a-mod-1778092423820-c88d6150.png",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3DLNLdVpFHmbbI9nuxPgilzABGs/a-stunning-high-resolution-shot-of-a-mod-1778092423820-c88d6150.png?_wi=2",
           imageAlt: "business profile headshot",
         },
         {
@@ -325,7 +325,7 @@ export default function LandingPage() {
           quote: "Simply the best service.",
           tag: "Personal",
           avatarSrc: "http://img.b2bpic.net/free-photo/front-view-lawyer-portrait_23-2151202434.jpg",
-          imageSrc: "http://img.b2bpic.net/free-photo/close-up-portrait-young-handsome-successful-man_1163-5475.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/close-up-portrait-young-handsome-successful-man_1163-5475.jpg?_wi=2",
           imageAlt: "business profile headshot",
         },
         {
@@ -336,7 +336,7 @@ export default function LandingPage() {
           quote: "Luxury on every level.",
           tag: "Leisure",
           avatarSrc: "http://img.b2bpic.net/free-photo/portrait-confident-man-looking-photographer_23-2148398473.jpg",
-          imageSrc: "http://img.b2bpic.net/free-photo/closeup-smiling-beautiful-adult-businesswoman_1262-1760.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/closeup-smiling-beautiful-adult-businesswoman_1262-1760.jpg?_wi=2",
           imageAlt: "business profile headshot",
         },
         {
@@ -347,7 +347,7 @@ export default function LandingPage() {
           quote: "Seamless operations.",
           tag: "Business",
           avatarSrc: "http://img.b2bpic.net/free-photo/closeup-content-pretty-businesswoman-glasses_1262-1740.jpg",
-          imageSrc: "http://img.b2bpic.net/free-photo/business-lady-looking-copyspace-with-interest_1262-2957.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/business-lady-looking-copyspace-with-interest_1262-2957.jpg?_wi=2",
           imageAlt: "business profile headshot",
         },
         {
@@ -358,7 +358,7 @@ export default function LandingPage() {
           quote: "Exceptional reliability.",
           tag: "Charter",
           avatarSrc: "http://img.b2bpic.net/free-photo/confident-european-businessman-smiling-closeup-portrait-jobs-career-campaign_53876-128975.jpg",
-          imageSrc: "http://img.b2bpic.net/free-photo/pretty-attractive-young-mixed-race-model-with-large-afro-wearing-navy-jacket-her-naked-body-shorts_633478-1216.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/pretty-attractive-young-mixed-race-model-with-large-afro-wearing-navy-jacket-her-naked-body-shorts_633478-1216.jpg?_wi=2",
           imageAlt: "business profile headshot",
         },
       ]}
